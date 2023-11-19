@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vh;
+}
+
+.prj1-container {
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    max-width: 400px;
+}
+
+.prj1-description {
+    font-size: 18px;
+}
+
+.prj1-btns {
+    margin-top: 20px;
+}
+
+.prj1-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 0 10px;
+    display: inline-block;
+}
+
+.prj1-btn:hover {
+    background-color: #45a049;
+}
+
